@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<my>
+  <name>StageData1</name>
+  <color>1.0,.8,.35,1.0</color>
+  <message>StageData.xmlの中身を編集して、Playerの
+  ActionをDeadにしたりAliveにしたりしてみよう</message>
+  <inner>
+  	<entry>
+  		<name>Player A</name>
+  		<action>Alive</action>
+  		<speed>1.0</speed>
+  	</entry>
+  	<entry>
+  		<name>Player B</name>
+  		<action>Dead</action>
+  		<speed>2.0</speed>
+  	</entry>
+  	<entry>
+  		<name>Player C</name>
+  		<action>Alive</action>
+  		<speed>0.6</speed>
+  	</entry>
+  </inner>
+</my>
