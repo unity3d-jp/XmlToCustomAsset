@@ -6,3 +6,6 @@ XmlToCustomAsset
 
 XMLからカスタム形式のアセットデータを作成して利用します。
 
+スライド
+---
+- http://www.slideshare.net/pigeon6/ss-15740075
